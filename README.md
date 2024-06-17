@@ -2,7 +2,7 @@
 
 ### Founder @ Octoplus
 
-- 🚀 Currently working on **Horizon Development**
+- 🚀 Currently working on **Octoplus**
 - 🌱 Learning **DSA & Creative Programming**
 - 🤝 Open to collaborating on **Open Source projects**
 - 💡 Ask me about **JavaScript**
